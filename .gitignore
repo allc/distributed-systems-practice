@@ -1,6 +1,14 @@
+# elipse
+
 bin/
 .settings/
 .project
 .classpath
 .metadata/
 .recommenders/
+
+# idea
+
+.idea/
+*/lib/
+*.iml
